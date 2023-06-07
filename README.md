@@ -1,6 +1,6 @@
 <h1> TypeScript - ECMAScript 20XX</h1>
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-   <img style="width:1000px; height:250px; margin:12px" src="https://github.com/LolaGM/ANGULAR/assets/116545851/86c46a1d-1e6e-4bdc-a072-c410e1ccc578">
+   <img style="width:1000px; height:250px; margin:12px" src="https://github.com/LolaGM/TS-fundamentals/assets/116545851/c6ba4cc8-0912-4946-b8b0-e9da18bd91cb">
 </div>
 
 <h2>1. Description</h2>
